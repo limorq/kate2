@@ -1,0 +1,160 @@
+body {
+  background-color: #993300;
+  opacity: 0.7;
+}
+#navbar {
+    margin-bottom: 0px; 
+    text-align: center; 
+    background-color: white;
+    height: 20%;
+}
+
+brand {
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 3em;
+  color: black;
+  letter-spacing: 3px;
+  display: inline;
+  letter-spacing: 3px;
+}
+#phone {
+  font-size: 1.2em;
+  color: black;
+  
+  display: inline;
+  margin-left: 60%;
+}
+#menuBar {
+    list-style-type: none;
+    background-color: #662200;
+    display: inline-block;
+    width: 100%;
+    height: 45px;
+    margin-top: 2%;
+    padding-top: 10px;
+}
+
+.menuList {
+    font-family: 'Varela', sans-serif;
+    display: inline;
+    font-size: 1em;
+    padding: 30px;
+}
+
+.menuLink {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.menuLink1 {
+  display: inline;
+  color: #ffff80;
+  txt-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menuLink:hover {
+    text-decoration: none;
+    color: black;
+}
+.menuLink1:hover {
+    text-decoration: none;
+    color: black;
+}
+
+#aboutPanel {
+color: black;
+height: 350px;
+background-color: #EEECF0;
+text-align:center;
+padding:40px 320px; 
+}
+.carousel1 {
+  margin-top: 15%;
+
+}
+.glowRight {
+  background: #4775d1; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #4775d1 , white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #4775d1, white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #4775d1, white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #4775d1 , white); /* Standard syntax */
+}
+.glowLeft {
+  background: #4775d1; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(right, #4775d1 , white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(left, #4775d1, white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(left, #4775d1, white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to left, #4775d1 , white); /* Standard syntax */
+}
+.text1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.3em;
+  color: #662200;
+  letter-spacing: 1px;
+}
+.text2 {
+  font-size: 1em;
+  color: #662200;
+  letter-spacing: 1px;
+  text-align: center;
+  text-decoration-line: underline;
+  padding-top: 2%;
+}
+.text3 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.3em;
+  color: #662200;
+  letter-spacing: 3px;
+}
+.text4 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3em;
+  color: #662200;
+  letter-spacing: 3px;
+}
+.slick-slide img {
+  display: inline;
+}
+.gray {
+  color: #504b49;
+}
+.contain {
+  width: 1000px;
+  margin: 5% 10% 3% 20%;
+  display: inline-block;
+  
+}
+.contain2 {
+  padding: 10% auto;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  text-align: center;
+}
+.slider {
+  height: 325px;
+  padding-top: 10%;
+}
+.right {
+  float: right;
+  margin-right: 20%;
+  border-radius: 2px;
+}
+#rght {
+  margin-left: 100px;
+}
+.responsive {
+  margin-bottom: 3%;
+}
+.slick-dots {
+  bottom: 15px;
+}
+.center {
+  display: inline-block;
+  padding: 10px 50px;
+}
+img {
+  border-radius: 5px;
+}
